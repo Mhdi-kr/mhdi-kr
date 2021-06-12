@@ -1,6 +1,5 @@
 ![Mahdi Karimi](Mahdi.jpg)
 
-# 👋 I'm Mahdi Karimi
 ## 📚 I am a full-time learner
 I study computer engineering at Nooshirvani Institute of technology. I love building computers, tinkering around with open-source hardware like Arduino as well as contributing to open-source software. Learning never stops, neither does my endeavour for getting better at my craft.
 
